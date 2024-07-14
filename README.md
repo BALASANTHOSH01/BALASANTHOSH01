@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Bala Santhosh
+# 👋 Hi, I'm Bala Santhosh P
 
-[![GitHub followers](https://img.shields.io/github/followers/BALASANTHOSH01?label=Follow&style=social)](https://github.com/BALASANTHOSH01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/balasanthosh01)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/santhos01ac)
 
