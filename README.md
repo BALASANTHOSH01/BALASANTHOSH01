@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bala Santhosh
 
 [![GitHub followers](https://img.shields.io/github/followers/BALASANTHOSH01?label=Follow&style=social)](https://github.com/BALASANTHOSH01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/balasanthosh01)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/your-twitter-handle)
 
 Welcome to my GitHub profile! I'm a passionate software developer specializing in MERN stack development. I love building user-centric solutions and contributing to open-source projects. Here's a glimpse of what I do:
@@ -12,7 +12,9 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 - 🎓 **Google Developer Student Clubs (GDSC)** Web Development Lead (2023).
 - 🏆 Participated in the **2024 Google Solution Challenge** with the project **Green Harbor**.
 - 💬 Ask me about Java, MERN stack, and advanced Java concepts.
-- 📫 Reach me at [your-email@example.com](mailto:your-email@example.com).
+- 🌱 Currently learning GraphQL and microservices architecture.
+- 🎨 Hobbies: Coding, reading tech blogs, playing chess, and exploring new technologies.
+- 📫 Reach me at [santhos01ac@gmail.com](mailto:santhos01ac@gmail.com).
 
 ## 🛠 Skills
 
@@ -25,14 +27,20 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 
 ## 🔥 Projects
 
-### [Green Harbor](https://github.com/BALASANTHOSH01/GreenHarbor)
-A web application addressing UN 17 goals using Google technology. Features a bot leveraging the Gemini Pro API to assist users with agricultural queries, techniques, and news.
-
 ### [Attendance Management System](https://github.com/BALASANTHOSH01/AttendanceManagementSystem)
 An online attendance management system with different user access levels (institute, staff, student). Built with MERN stack, featuring Redux for state management and JWT for authentication.
 
-### [Portfolio Website](https://github.com/BALASANTHOSH01/Portfolio)
-My personal portfolio website showcasing my projects, skills, and experience. Built with React and TailwindCSS.
+### [Green Harbor](https://github.com/BALASANTHOSH01/GreenHarbor)
+A web application addressing UN 17 goals using Google technology. Features a bot leveraging the Gemini Pro API to assist users with agricultural queries, techniques, and news.
+
+### [Your Other Good Project](https://github.com/BALASANTHOSH01/OtherGoodProject)
+Brief description of another significant project. Highlight its purpose, technologies used, and any unique features or accomplishments.
+
+## 🌟 Achievements
+
+- 🏅 **Best Project Award** at College Hackathon 2023.
+- 🥇 **First Place** in the State-level Coding Competition.
+- 📜 **Certified MERN Stack Developer** by [Online Platform](https://www.example.com).
 
 ## 📝 Blog Posts
 
@@ -48,10 +56,16 @@ My personal portfolio website showcasing my projects, skills, and experience. Bu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALASANTHOSH01&layout=compact&theme=radical)
 
-## 🤝 Let's Connect
+## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/balasanthosh01)
 - [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:santhos01ac@gmail.com)
 
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech.
+## 🤝 Open to Collaborate
+
+I'm always open to interesting project collaborations and new opportunities. Feel free to reach out if you'd like to work together or just chat about tech!
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
