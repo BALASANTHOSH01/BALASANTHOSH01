@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bala Santhosh P
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/balasanthosh01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasanthosh01)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/santhos01ac)
 
 Welcome to my GitHub profile! I'm a passionate software developer specializing in MERN stack development. I love building user-centric solutions and contributing to open-source projects. Here's a glimpse of what I do:
