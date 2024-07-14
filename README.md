@@ -14,9 +14,6 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 - 🎨 Hobbies: Coding, reading tech blogs, watching youtube videos, and exploring new technologies.
 - 📫 Reach me at [santhos01ac@gmail.com](mailto:santhos01ac@gmail.com).
 
-  ## 🌟 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALASANTHOSH01&layout=compact&theme=radical)
 
 ## 🛠 Skills
 
@@ -42,11 +39,14 @@ Infest2k24 is a college symposium website where students can see their events, g
 
 [![BALASANTHOSH01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BALASANTHOSH01&bg_color=000000&color=ffffff&line=4e9e4c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+  ## 🌟 Top Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALASANTHOSH01&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/balasanthosh01)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasanthosh01)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_santhooosh_)
 - [Email](mailto:santhos01ac@gmail.com)
 
 ## 🤝 Open to Collaborate
