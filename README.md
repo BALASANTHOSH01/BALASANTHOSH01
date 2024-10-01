@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 About Me
 
-A front-end developer, open source is my hobby! 
+A Software Developer, open source is my hobby! 
 - email: santhos01ac@gmail.com
 
 <div style="display: flex;justify-content: space-between;">
