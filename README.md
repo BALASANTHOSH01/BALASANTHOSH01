@@ -1,12 +1,12 @@
-<div align="center">
-  <img alt="👋" src="./assets/hand-wave.gif" width='40'/>
-  <h2>Hey there! I'm <a href="https://github.com/buqiyuan" target="_blank">Balasanthosh</a></h2>
+<div>
+  <img alt="👋" src="./assets/hand-wave.gif" width='40' style="vertical-align: middle;"/>
+  <h2 style="display: inline-block; vertical-align: middle; margin-left: 10px;">Hey there! I'm <a href="https://github.com/buqiyuan" target="_blank">Balasanthosh</a></h2>
 
   <h2>👨🏻‍💻 About Me</h2>
   <p>A Software Developer, open source is my hobby!</p>
   <p>email: santhos01ac@gmail.com</p>
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; gap: 20px;">
     <img src="./assets/coding.gif" alt="Night Coding" height="180px" />
     <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="180px" />
   </div>
