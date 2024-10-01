@@ -1,7 +1,8 @@
 <p></p>
 <img alt="👋" src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm <a href="https://github.com/buqiyuan" target="_blank">Balasanthosh</a></h2>
 
-### 👨🏻‍💻 About Me
+<h2 align="center">👨🏻‍💻 About Me</h2>
+<br/>
 
 A Software Developer, open source is my hobby! 
 - email: santhos01ac@gmail.com
@@ -13,14 +14,14 @@ A Software Developer, open source is my hobby!
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
-<div align="center">
+<div align="center" >
   <a target="_blank" href="https://www.linkedin.com/in/balasanthosh01"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="mailto: santhos01ac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/BALASANTHOSH01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br />
 
-<h2 align="center">🚀 Languages and Tools:</h2>
+<h2 align="center">🚀 Languages and Tools</h2>
 <br/>
 <div align="center">
  
