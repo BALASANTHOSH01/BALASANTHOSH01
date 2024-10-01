@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 About Me
 
 A front-end developer, open source is my hobby! 
-- email: 1743369777@qq.com
+- email: santhos01ac@gmail.com
 
 <div style="display: flex;justify-content: space-between;">
   <img src="./assets/coding.gif" alt="Night Coding" height="180px" />
